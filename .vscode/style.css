@@ -1,24 +1,22 @@
-#id{
-    height:200px;
-    width: 70px;
+div{
+   height:50px;
+    width: 150px;
+    margin: 5px;
     border: 2px solid black;
+    text-align: center;
+    
+   
 }
-.inner{
-    height: 50px;
-    width: 50;
-    border: 2px solid black;
-    margin: 10px;
-    border-radius: 50%;
+.red{
+    background-color: brown;
 }
-#red{
-    background-color: red;
+.blue{
+    background-color:aquamarine;
 }
-#yello{
-    background-color: yellow;
+.pink{
+    background-color: pink;
 }
-#green{
-    background-color: green;
+.yellow{
+    background-color: burlywood;
 }
-hr{
-    color: aquamarine;
-}
+
