@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#ani{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    margin: auto;
+    /* position: relative; */
+}
