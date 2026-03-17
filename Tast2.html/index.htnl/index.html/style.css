@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    background: #f2f2f2;
+}
+
+.container {
+    width: 350px;
+    background: #fff;
+    padding: 20px;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+
+#taskList li {
+    list-style: none;
+    margin: 10px 0;
+    padding: 10px;
+    color: #fff;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.low { background: #4CAF50; }
+.medium { background: #FFC107; }
+.high { background: #F44336; }
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
+button {
+    margin-left: 10px;
+}

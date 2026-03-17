@@ -1,0 +1,25 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+.outer{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+.inner{
+    /* background-color: yellow; */
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-left: 10px;
+}

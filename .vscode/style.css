@@ -1,0 +1,22 @@
+div{
+   height:50px;
+    width: 150px;
+    margin: 5px;
+    border: 2px solid black;
+    text-align: center;
+    
+   
+}
+.red{
+    background-color: brown;
+}
+.blue{
+    background-color:aquamarine;
+}
+.pink{
+    background-color: pink;
+}
+.yellow{
+    background-color: burlywood;
+}
+
